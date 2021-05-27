@@ -8,4 +8,5 @@ VK_F1 TOGGLE ON RECOIL | VK_HOME TOGGLE RECOIL OFF
 
 # info
 This is just a paste from this https://github.com/cocaine666/valorant-cheat but does NOT use Logitech GHUB to move the mouse but Razer Synapse.
+
 This does not work anymore after the patch 2.09!
